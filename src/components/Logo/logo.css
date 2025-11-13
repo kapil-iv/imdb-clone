@@ -1,0 +1,10 @@
+.logo-gold {
+  color: #FFC000; /* Custom vibrant gold/yellow */
+  text-shadow: 0 0 10px rgba(255, 192, 0, 0.5);
+}
+.bg-dark-charcoal {
+  background-color: #121212; /* Very dark background */
+}
+.font-impact {
+  font-family: 'Inter', sans-serif;
+}
